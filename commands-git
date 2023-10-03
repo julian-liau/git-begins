@@ -1,0 +1,11 @@
+#Cloner un repository
+git clone <lien-repository>
+
+#Commandes push
+git add .
+git commit -m "commentaire"
+git push
+
+
+
+
